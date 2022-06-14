@@ -1,0 +1,13 @@
+.my-rounded-bottom{
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+
+/* .bg{
+    background-color: salmon;
+} */
